@@ -1,0 +1,8 @@
+C:/Users/User/Desktop/System_Django/DjangoAPI/image//Swat Shirt\Swat Shirt2.JPG
+C:/Users/User/Desktop/System_Django/DjangoAPI/image//FCB jersey\FCB Jersey4.JPG
+C:/Users/User/Desktop/System_Django/DjangoAPI/image//Swat Shirt\Swat Shirt1.JPG
+C:/Users/User/Desktop/System_Django/DjangoAPI/image//Swat Shirt\Swat Shirt11.jpg
+C:/Users/User/Desktop/System_Django/DjangoAPI/image//Swat Shirt\Swat Shirt12.jpg
+C:/Users/User/Desktop/System_Django/DjangoAPI/image//Swat Shirt\Swat Shirt16.JPG
+C:/Users/User/Desktop/System_Django/DjangoAPI/image//Swat Shirt\Swat Shirt13.jpg
+C:/Users/User/Desktop/System_Django/DjangoAPI/image//Swat Shirt\Swat Shirt15.jpg
